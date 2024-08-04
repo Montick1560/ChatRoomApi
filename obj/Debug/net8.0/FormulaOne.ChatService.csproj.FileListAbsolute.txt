@@ -34,3 +34,4 @@ C:\Users\torso\source\repos\FormulaOne.ChatService\obj\Debug\net8.0\refint\Formu
 C:\Users\torso\source\repos\FormulaOne.ChatService\obj\Debug\net8.0\FormulaOne.ChatService.pdb
 C:\Users\torso\source\repos\FormulaOne.ChatService\obj\Debug\net8.0\FormulaOne.ChatService.genruntimeconfig.cache
 C:\Users\torso\source\repos\FormulaOne.ChatService\obj\Debug\net8.0\ref\FormulaOne.ChatService.dll
+C:\Users\torso\source\repos\FormulaOne.ChatService\obj\Debug\net8.0\FormulaOne.ChatService.sourcelink.json
