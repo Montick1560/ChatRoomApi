@@ -20,7 +20,10 @@ builder.Services.AddCors(opt =>
     });
 
 });
+<<<<<<< HEAD
 builder.Services.AddSingleton<SharedDb>();
+=======
+>>>>>>> c1d1fcd8e31260c8d9e48fcd6d0865aa4df9e66c
 var app = builder.Build();
 
 // Configure the HTTP request pipeline.
